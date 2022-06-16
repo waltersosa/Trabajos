@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     cout<<"ejemplo bulce for ";
+    cout<<"Tabla del 10 ";
 
     int tabla=10;
     for(int k=1; k<=10; k++)

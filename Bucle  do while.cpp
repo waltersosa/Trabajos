@@ -9,8 +9,9 @@ int main()
     int tabla=5;
     do{
         cout<<endl<<tabla<< " X " << cout << " = " <<(tabla * cout);
-        cout--;
-    }while (cout >= 1);
+        cout ++
+    }
+    while (cout >= 1);
     return 0;
 
 }

@@ -10,20 +10,18 @@ int main()
        sea igual a 0
 
     */
-
-    cout<<"Varias tablas ";
-
-    int i=0;
-    while (i>=0) 
+int num;
+cout<<endl<<endl<<"Ingrese la tabla que deseas generar: ";
+cin>>num;
+while ( num>=0 )
+{
+int tabla=num;
+    int i=1;
+    while (i<=10)
     {
+    cout<<"\n" << tabla << " X " << i<< " = " << (tabla * i);
         i++;
-        cout<<endl<<"Mensaje " << i;
-        cout<<endl<<"El cuadrado de i" << (i * i);
-    }       
-
-
-
-
-
-   
+}
+    return 0;
+}
 }

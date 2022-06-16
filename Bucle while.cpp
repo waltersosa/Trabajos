@@ -11,7 +11,7 @@ int main()
         {
         i++;
         cout<<endl<<"Mensaje " << i;
-        cout<<endl<<"El cuadrado de i" << (i * i);
+        cout<<endl<<"El cuadrado de " << i << (i * i);
 
     }
     return 0;

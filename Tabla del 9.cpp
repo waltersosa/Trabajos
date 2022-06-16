@@ -15,7 +15,7 @@ int main()
     }
 
  //Se pide por teclado un número entero que debe estar entre 1 y 20.
- //Este número repreenta la tabla de que el usuario desea generar.
+ //Este número representa la tabla de que el usuario desea generar.
  //Se pide con un bucle while la tabla de multiplicar. 
 int num;
 cout<<endl<<endl<<"Ingrese la tabla que deseas generar: ";
