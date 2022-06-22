@@ -1,0 +1,5 @@
+A pesar de utilizar .gitignore, se han subido los archivos .exe
+
+El ejercicio variastablas no está solucionado correctamente.
+
+Calificación: 1.8.0
