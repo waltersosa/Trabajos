@@ -1,0 +1,50 @@
+9. Diseñe la función que recibe como parámetro 1 entero positivo que indica una tabla de multiplicar. La función debe imprimir la tabla de multiplicar desde el 1 al 15. Por ejemplo:
+
+5 x 1 = 5
+
+5 x 2 = 10
+
+5 x 3 = 15
+
+...
+
+...
+
+5 x 15 = 75 
+
+
+
+11. Diseñe la función que recibe como parámetro un entero N comprendido 1 y 10. La función debe imprimir las tablas de múltiplicar desde el 1 a N. Por ejemplo, si N=3, se imprimirá:
+
+Tabla del 1
+
+1 x 1 = 1
+
+1 x 2 = 2
+
+...
+
+1 x 10 = 10
+
+
+13. Diseñe la función que devuelve el resultado de la siguiente serie:
+
+1 - 2 + 3 - 4 + 5 - 6 + 7 - N
+
+N es un parámetro que indica el límite de la serie
+
+
+
+
+20. Una función recibe como parámetro 3 enteros que indican el año, mes y día del nacimiento de una persona. La función debe devolver la edad de la persona en años, meses y días. Debe investigar como capturar la fecha actual de la computadora.
+
+
+
+24. Diseñe la función que recibe como parámetro 2 enteros y los devuelve intercambiados. Por ejemplo si num1=45 y num2=50, luego de llamar a la función num1 sería igual a 50 y num2 igual a 45.
+
+
+3. Escriba la función que determina si un número pasado como parámetro es par o impar.
+
+
+4. Escriba la función que determina si un número pasado como parámetro es múltiplo de 5
+
