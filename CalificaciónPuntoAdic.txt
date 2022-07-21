@@ -1,0 +1,3 @@
+Calificación: 0.7/1
+
+Debe generalizar la función de potencia (exponente)
